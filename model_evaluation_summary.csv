@@ -1,0 +1,10 @@
+metric,value
+cv_pr_auc_5fold_avg,0.7818107422291932
+train_pr_auc_insample,0.9985261994637307
+optimal_threshold,0.74
+total_business_cost_inr,67000.0
+true_negatives,6665.0
+false_positives,134.0
+false_negatives,0.0
+true_positives,1302.0
+predicted_churners_test,361.0
